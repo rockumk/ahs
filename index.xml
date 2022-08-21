@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaPack Repository Template" commit="2ce228e7597b974170b3a165b2781458a183e348">
+<index version="1" name="AHS Repo" commit="2ce228e7597b974170b3a165b2781458a183e348">
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
